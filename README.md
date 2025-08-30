@@ -55,7 +55,8 @@
 
     <h2>6. Changes to This Privacy Policy</h2>
     <p>We may update this privacy policy from time to time. Any changes will be posted on this page with the updated revision date.</p>
-
+[tiktokI1II3INPrgCQuMIlzotonTGkEJrpM9H0.txt](https://github.com/user-attachments/files/22061371/tiktokI1II3INPrgCQuMIlzotonTGkEJrpM9H0.txt)
+tiktok-developers-site-verification=I1II3INPrgCQuMIlzotonTGkEJrpM9H0
     <h2>7. Contact Us</h2>
     <p>If you have any questions or concerns regarding this privacy policy, feel free to contact us:</p>
     <p>📧 <a href="mailto:anatolianinteractive@gmail.com">anatolianinteractive@gmail.com</a></p>
